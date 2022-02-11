@@ -895,6 +895,9 @@ ul.list2section6 li::before{
     color: #666666;
     
 }
+.underlinetext{
+    text-decoration: underline !important;
+}
 @media(max-width: 1150px){
     .images{
         display: grid;
